@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🏫 currently studying Information Systems (Wirtschaftsinformatik) @ Frankfurt UAS
 <!--
 **jakoblaesche/jakoblaesche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
